@@ -112,8 +112,3 @@ The system currently focuses on Bali, Indonesia with four main regions:
 - Mobile application development
 - Expansion to other destinations
 
-## Contributors
-- WayGo Team
-
-## License
-[Specify your license here]
